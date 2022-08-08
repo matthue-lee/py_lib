@@ -1,0 +1,6 @@
+README.md
+setup.py
+Kiwriouslib.egg-info/PKG-INFO
+Kiwriouslib.egg-info/SOURCES.txt
+Kiwriouslib.egg-info/dependency_links.txt
+Kiwriouslib.egg-info/top_level.txt

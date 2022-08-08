@@ -1,17 +1,23 @@
 To setup the python virtual environment:
 
-```
-py -3 -m venv venv
+```shell
+$ py -3 -m venv venv
 ```
 
 To enter the virtual environment:
 
-```
-venv\Scripts\activate
+```shell
+$ venv\Scripts\activate
 ```
 
 To install required packages and libraries:
 
+```shell
+$ pip install -r requirements.txt
 ```
-pip install -r requirements.txt
+
+To exit venv:
+
+```shell
+$ deactivate
 ```
