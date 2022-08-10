@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-	name='Kiwriouslib',
+	name='kiwrious_lib',
 	packages=find_packages(include=['Kiwriouslib']),
 	description='Python library for reading Kiwrious sensors',
 	install_requires=[],
