@@ -4,3 +4,4 @@ wheel
 setuptools
 twine
 pyusb
+libusb
