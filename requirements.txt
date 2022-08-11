@@ -3,5 +3,4 @@ pytest-runner==4.4
 wheel
 setuptools
 twine
-pyusb
-libusb
+pyserial
